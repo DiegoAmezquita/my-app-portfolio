@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="names">
+        <item>SPOTIFY STREAMER</item>
+        <item>SCORES APP</item>
+        <item>LIBRARY APP</item>
+        <item>BUILD IT BIGGER</item>
+        <item>XYZ READER</item>
+        <item>CAPSTONE</item>
+    </string-array>
+
+
+    <string-array name="icons">
+        <item>@drawable/media_streamer</item>
+        <item>@drawable/scores_app</item>
+        <item>@drawable/library_app</item>
+        <item>@drawable/build_it_bigger_app</item>
+        <item>@drawable/xyz_reader_app</item>
+        <item>@drawable/no_image</item>
+    </string-array>
+
+</resources>
